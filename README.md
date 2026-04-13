@@ -1,8 +1,6 @@
-## 新增Mitv workers 04/10更新
-## 在原基础`TXT`格式订阅，添加`M3U`格式订阅
 针对不同类型壳子订阅使用的格式，提供两种格式部署脚本
-## TXT     部署`worker.js`
-## M3U 部署`workerm3u.js`
+## TXT订阅格式请部署`worker.js`
+## M3U订阅格式请部署`workerm3u.js`
 ![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/10.jpg)
 ![图片2](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/11.jpg)
 ![图片3](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/12.jpg)
@@ -27,6 +25,7 @@
 
 部署完成后，会生成一个内部地址：
 或者绑定域名可公开访问地址
+## 免费域名注册地址   `https://my.dnshe.com`
 
 
 
