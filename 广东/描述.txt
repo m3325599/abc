@@ -3,3 +3,5 @@
 从IP池提取检测有效IP自动轮替生成静态频道
 
 GD体育频道
+
+访问格式：https://worker域名/hls/1/index.m3u8
