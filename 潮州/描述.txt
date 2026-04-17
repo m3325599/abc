@@ -1,0 +1,22 @@
+与其他 JS 文件同理部署 workers
+
+反向IP静态代理
+
+部署完成访问worker
+
+如访问显示：http://183.10.180.191:202
+
+用法把任意IP复制 炒菜工具：https://tv1288.xyz/iptv_tool.html
+
+复制ip+端口   一键炒菜获取所有数据 
+
+再worker域名代替所有数据的IP+端口
+
+如：     http://183.10.180.191:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+
+换成：   http://worker域名/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+即：http://worker域名=所有任意IP+端口
+
+
