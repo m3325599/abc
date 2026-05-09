@@ -101,7 +101,7 @@ https://xxxx.workers.dev
 ## 域名有效期10年或1年，看脸
 ![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/04331.png)
 
-
+## 注册到托管视频教程 https://www.youtube.com/watch?v=7xi8Yh9csGo
 
 
 # 版权说明
