@@ -6,7 +6,7 @@ https://www.mpimg.cn/down.php/df7b5a494782b2aececc26d7d42b63a4.apk&8520
 
 ## (手机竖版)
 https://www.mpimg.cn/down.php/133b58548d55398dc5522dc06b1579f6.apk&8520
-## TXT M3U   需更换新的变量 新的变量值公众号获取
+## TXT M3U Mitv  需更换新的变量 新的变量值公众号获取
 ## 当前访问链接采用的是 “动态变量机制”，例如：
 https://域名/123456
 其中 /123456 为动态变量，并非固定不变。
